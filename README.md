@@ -1,16 +1,22 @@
-# home_services_app
+# Ghar Seva – Home Services App (Flutter UI)
 
-A new Flutter project.
+Ghar Seva is a Flutter-based frontend UI for a home services application that helps users browse and book household services.
 
-## Getting Started
+## Features
+- Clean and user-friendly UI
+- Multiple service screens
+- Flutter Material design
+- Smooth navigation between pages
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## Project Status
+Frontend UI completed. Backend integration will be added in the future.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+(Add screenshots below)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Amara Krupa Varshitha
